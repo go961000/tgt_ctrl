@@ -5,24 +5,24 @@ Installation
 ============
 
 
-Stable release
---------------
-
-To install Python target controller, run this command in your terminal:
-
-.. code-block:: console
-
-    $ pip install tgt_ctrl
-
-This is the preferred method to install Python target controller, as it will always install the most recent stable release.
-
-If you don't have `pip`_ installed, this `Python installation guide`_ can guide
-you through the process.
-
-.. _pip: https://pip.pypa.io
-.. _Python installation guide: http://docs.python-guide.org/en/latest/starting/installation/
-
-
+..  release
+.. --------
+.. 
+.. tall Python target controller, run this command in your terminal:
+.. 
+.. e-block:: console
+.. 
+.. pip install tgt_ctrl
+.. 
+.. s the preferred method to install Python target controller, as it will always install the most recent stable release.
+.. 
+..  don't have `pip`_ installed, this `Python installation guide`_ can guide
+.. rough the process.
+.. 
+.. p: https://pip.pypa.io
+.. thon installation guide: http://docs.python-guide.org/en/latest/starting/installation/
+.. 
+.. 
 From sources
 ------------
 
